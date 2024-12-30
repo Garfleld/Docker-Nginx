@@ -1,8 +1,8 @@
 # 开源可视化一键脚本
-![主页面](https://i.111666.best/image/xioZvf1MVDWywKk68Eou5J.jpeg)
-![Docker管理](https://i.111666.best/image/hTuKCAIRykeyHbGIHXsFT4.jpeg)
-![Nginx管理](https://i.111666.best/image/mADUly1VMp0UYVpuSTICFr.jpeg)
-## 安装指南
+![主页面](https://upload.cc/i1/2024/12/31/ohVGvW.jpeg)
+![Docker管理](https://upload.cc/i1/2024/12/31/di9yhx.jpeg)
+![Nginx管理](https://upload.cc/i1/2024/12/31/0dkn17.jpeg)
+# 安装指南
 ## 1.安装weget curl依赖包  
 *Debian/Ubuntu*  
 ```
