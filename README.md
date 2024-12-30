@@ -17,7 +17,7 @@ yum update -y && yum install curl -y
 curl -sS -O https://raw.githubusercontent.com/Garfleld/docker-nginx/main/yaxp.sh && sudo chmod +x yaxp.sh && ./yaxp.sh
 ```
 
-# 项目名称
+## 项目名称
 **Docker+Nginx管理面板**
 ## 简介
 这是一个Shell脚本，包含Docker管理和Nginx管理。
